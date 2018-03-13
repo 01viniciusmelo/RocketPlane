@@ -1,0 +1,20 @@
+- (NO) Pagine di conferma quando vuoi ricominciare il gioco o uscire sul 	menu principale
+
+- (OK) PlayerPref per salvare highscore
+
+- (OK) Pagine selezione aereo e sfondo quando premo play
+
+- VA A SCATTI : Provare a togliere rigidbody e a gestire font e cancellare texture in piu
+
+- (OK) arcade e livelli (menu principale)
+
+- (OK) Pause e resume quando chiudo e riapro app
+
+- (OK) Provare a cambiare razzi (non animati) e vedere se va meno a scatti
+
+- Quando inizia la partita far decollare l aereo da una piattaforma
+
+- Lingua su tutte le pagine
+
+- 
+

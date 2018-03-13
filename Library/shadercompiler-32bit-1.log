@@ -1,0 +1,7 @@
+Base path: C:/Users/USA4/scambio/Tommaso/varie/Android/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-16456
+Cmd: getPlatforms
+Unhandled exception: Readfile from pipe failed. GLE=Pipe terminata.
+
+
+Quitting shader compiler process

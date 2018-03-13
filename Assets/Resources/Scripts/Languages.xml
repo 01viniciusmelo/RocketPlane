@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+    <English>
+        <string name="MainMenu_History">HISTORY</string>
+        <string name="MainMenu_Arcade">ARCADE</string>
+        <string name="MainMenu_Exit">EXIT</string>
+    </English>
+ 
+    <Italiano>
+        <string name="MainMenu_History">STORIA</string>
+        <string name="MainMenu_Arcade">ARCADE</string>
+        <string name="MainMenu_Exit">ESCI</string>
+    </Italiano>
+ 
+    <German>
+        <string name="MainMenu_History">GESCHICHTE</string>
+        <string name="MainMenu_Arcade">ARKADE</string>
+        <string name="MainMenu_Exit">ENDE</string>
+    </German>
+</languages>
